@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D2F4E73D-A9F2-41E8-B996-DF0EE8B65361}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="21" Column="2" />
+      <File FileName="Person.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Executable" expanded="True">
+            <Node name="CustomValidator" expanded="True" />
+            <Node name="Executable" expanded="True">
+              <Node name="CustomValidator" expanded="True">
+                <Node name="obj" expanded="True">
+                  <Node name="Debug" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CustomValidator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Executable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

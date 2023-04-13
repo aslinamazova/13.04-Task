@@ -1,0 +1,5 @@
+/Users/eslinamazova/Desktop/Executable/obj/Debug/net6.0/Executable.csproj.AssemblyReference.cache
+/Users/eslinamazova/Desktop/Executable/obj/Debug/net6.0/Executable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eslinamazova/Desktop/Executable/obj/Debug/net6.0/Executable.AssemblyInfoInputs.cache
+/Users/eslinamazova/Desktop/Executable/obj/Debug/net6.0/Executable.AssemblyInfo.cs
+/Users/eslinamazova/Desktop/Executable/obj/Debug/net6.0/Executable.csproj.CoreCompileInputs.cache
